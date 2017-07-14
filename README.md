@@ -8,4 +8,6 @@ Djikstra Algorithm
 * map position of graph is stored in `Entrada.txt`.
 * This algorithm solve's problem of *PCV*.
 
-Author: Eber H. S. Alves
+##### Author: [Eber H. S. Alves]
+
+  [Eber H. S. Alves]: <https://github.com/xxdf>
